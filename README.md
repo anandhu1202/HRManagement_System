@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/dzenis-h/Mars-EMS/master/frontend/public/favicon.ico" width="32" height="32" style="padding: 5px"> Mars-EMS
+# <img src="https://raw.githubusercontent.com/dzenis-h/Mars-EMS/master/frontend/public/favicon.ico" width="32" height="32" style="padding: 5px"> HR MS
 
 ## Overview 📂
 
