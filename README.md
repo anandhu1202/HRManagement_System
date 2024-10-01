@@ -35,7 +35,7 @@ It helps with generating salaries, penalties, bonuses, etc. Employing a new staf
 
 In order to run & use this app locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/dzenis-h/HRManagement_System`
+- Clone the repository: `git clone https://github.com/anandhu1202/HRManagement_System`
 - Install the necessary dependencies: Run `npm install` in all three folders:
   - ROOT folder (`HRManagement_System`).
   - BACKEND folder (`HRManagement_System\backend`).
