@@ -71,8 +71,3 @@ Contributions are always welcome! If you would like to contribute to this projec
 
 This project is licensed under the MIT License. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for more details.
 
-## Credits 👾
-
-This project was created by [Dzenis H.](https://dzenis.tech)
-
-"If you like what you see, please consider giving a ⭐️
