@@ -6,7 +6,7 @@
 HR-MS is a full-stack web application that simulates an Employee Management System for, both, the accountant and HR departments. It uses Google Sheets as a database and Google OAuth 2.0 for authentication. It allows users to manage employees, their salaries, bonuses, penalties, and more. It also calculates the total payroll for each month and displays it in a dashboard. The EMS stands for an employee management system which was built to help companies reduce their time spent regarding the Accounting and HR departments.
 It helps with generating salaries, penalties, bonuses, etc. Employing a new staff member is only a few clicks away or giving an end date takes one click. It contains many other features, like giving loans to employees, tracking their installments, making annual/ monthly reports, and much more. It looks and feels great thanks to great structure and design, and even though it possesses many features, the complexity is hidden from the end-user. So it always appears easy to use, no matter what functionality level you choose. It uses ReactJS (AND its entire ecosystem) on the frontend and NodeJS (SailsJS) + MongoDB/ Mongoose on the backend.
 
-![Screenshot of Mars-EMS](https://drive.google.com/uc?export=view&id=1xNayKUTncYEUe6kOEE1QCAgVMzJaHEiM)
+
 
 ## Tech Stack 🛠
 
