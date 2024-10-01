@@ -35,11 +35,11 @@ It helps with generating salaries, penalties, bonuses, etc. Employing a new staf
 
 In order to run & use this app locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/dzenis-h/Mars-EMS`
+- Clone the repository: `git clone https://github.com/dzenis-h/HRManagement_System`
 - Install the necessary dependencies: Run `npm install` in all three folders:
-  - ROOT folder (`Mars-EMS`).
-  - BACKEND folder (`Mars-EMS\backend`).
-  - FRONTEND folder (`Mars-EMS\frontend`).
+  - ROOT folder (`HRManagement_System`).
+  - BACKEND folder (`HRManagement_System\backend`).
+  - FRONTEND folder (`HRManagement_System\frontend`).
 - Add your own credentials:
   - Go to [Google Cloud Console](https://console.cloud.google.com/)
   - Create a new project.
